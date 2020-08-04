@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul14/firstdemo/first-demo.iml" filepath="$PROJECT_DIR$/java/2020Jul14/firstdemo/first-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lecturedemos.iml" filepath="$PROJECT_DIR$/.idea/lecturedemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javascript/2020Jul07/converting-json/maven-template-project.iml" filepath="$PROJECT_DIR$/javascript/2020Jul07/converting-json/maven-template-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-management/2020Jun15/maven-template-project (1).iml" filepath="$PROJECT_DIR$/project-management/2020Jun15/maven-template-project (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Aug03/maven-template-project (2).iml" filepath="$PROJECT_DIR$/java/2020Aug03/maven-template-project (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul29/maven-template-project (3).iml" filepath="$PROJECT_DIR$/java/2020Jul29/maven-template-project (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/2020Jul28/maven-template-project (4).iml" filepath="$PROJECT_DIR$/java/2020Jul28/maven-template-project (4).iml" />
+    </modules>
+  </component>
+</project>
