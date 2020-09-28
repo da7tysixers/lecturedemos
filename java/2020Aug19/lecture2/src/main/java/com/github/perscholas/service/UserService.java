@@ -8,7 +8,8 @@ import java.util.List;
 /**
  * Created by leon on 8/19/2020.
  */
-public class UserService extends AbstractService<String, User, UserJpaRepository> {
+public class
+UserService extends AbstractService<String, User, UserJpaRepository> {
     public UserService(UserJpaRepository repository) {
         super(repository);
     }
